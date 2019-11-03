@@ -1,0 +1,10 @@
+D:\csharp\Goyanuk\OOP\OOP\bin\Debug\OOP.exe.config
+D:\csharp\Goyanuk\OOP\OOP\bin\Debug\OOP.exe
+D:\csharp\Goyanuk\OOP\OOP\bin\Debug\OOP.pdb
+D:\csharp\Goyanuk\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+D:\csharp\Goyanuk\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\csharp\Goyanuk\OOP\OOP\obj\Debug\OOP.exe
+D:\csharp\Goyanuk\OOP\OOP\obj\Debug\OOP.pdb
+D:\csharp\Goyanuk\OOP\OOP\bin\Debug\SimpleClassLibrary.dll
+D:\csharp\Goyanuk\OOP\OOP\bin\Debug\SimpleClassLibrary.pdb
+D:\csharp\Goyanuk\OOP\OOP\obj\Debug\OOP.csproj.CopyComplete
