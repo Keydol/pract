@@ -7,7 +7,7 @@ namespace oop_lab7
     {
         static void Main(string[] args)
         {
-            People p1 = new People("Lina", "Sayko", "30/07/2001");
+            People p1 = new People("Арсен", "Стоцький", "19/09/2001");
             p1.ShowInfo();
             Console.Write("\nPress enter to continue");
             Console.ReadKey();
@@ -22,11 +22,11 @@ namespace oop_lab7
             Console.Write("\nPress enter to continue");
             Console.ReadKey();
 
-            People p2 = new People("Victoria", "Krasnichuk", "01/01/1970");
+            People p2 = new People("Iван", "Гоянюк", "01/01/1970");
             p2.ShowInfo();
             Console.Write("\nPress enter to continue");
             Console.ReadKey();
-            Vykladach v1 = new Vykladach("Vchutel", "Programming", "KPK NU LP", p2);
+            Vykladach v1 = new Vykladach("Вчитель", "Програмування", "KPK NU LP", p2);
             p2 = v1;
             p2.ShowInfo();
             Console.Write("\nPress enter to continue");
